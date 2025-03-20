@@ -2,7 +2,8 @@
 
 **` Desenvolvedor Front-end`**
 
-Programador de 19 ano e sou de São Paulo. Sou formado em Análise e Desenvolvimento de Sistemas e, atualmente, estou me especializando para me tornar desenvolvedor front-end. Sou apaixonado por tecnologia e estou sempre em busca de novos desafios e conhecimentos para aprimorar minhas habilidades.
+Olá, me chamo Gabriel Negri, tenho 19 anos e sou de São Paulo. Sou formado em Análise e Desenvolvimento de Sistemas e, atualmente, estou me especializando para me tornar desenvolvedor front-end. Sou apaixonado por tecnologia e estou sempre em busca de novos desafios e conhecimentos para aprimorar minhas habilidades.
+
 
 ---
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=03F700&width=435&lines=%F0%9F%A4%96+Linguagens+e+t%C3%A9cnologias+)](https://git.io/typing-svg)
